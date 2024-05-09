@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **adish.gujarathi10@gmail.com**
 
-- ⚡ Fun fact **In order to understand recursion, you must first understand recursion.**
+- ⚡ Fun fact: **In order to understand recursion, you must first understand recursion.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
