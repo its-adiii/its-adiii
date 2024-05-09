@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/__adish_" target="blank"><img src="https://img.shields.io/twitter/follow/__adish_?logo=twitter&style=for-the-badge" alt="__adish_" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and MERN stack Web-Development**
 
-- 💬 Ask me about **ML,Web-Dev,Space,Chess**
+- 💬 Ask me about: **ML, Web-Dev, Space & Chess**
 
-- 📫 How to reach me **adish.gujarathi10@gmail.com**
+- 📫 Reach me at: **adish.gujarathi10@gmail.com**
 
-- ⚡ Fun fact **In order to understand recursion, you must first understand recursion.**
+- ⚡ Fun fact: **In order to understand recursion, you must first understand recursion.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
