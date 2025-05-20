@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/__adish_" target="blank"><img src="https://img.shields.io/twitter/follow/__adish_?logo=twitter&style=for-the-badge" alt="__adish_" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and MERN stack Web-Development**
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and App/Web Development**
 
-- 💬 Ask me about: **ML, Web-Dev, Space & Chess**
+- 💬 Ask me about: **CyberSecurity, Agentic AI, ML, Software-Dev, Space & Chess**
 
 - 📫 Reach me at: **adish.gujarathi10@gmail.com**
 
